@@ -3,8 +3,64 @@
   "WorkspaceRootPath": "C:\\PersonalProjects\\DataStructuresAndAlgorithms\\DataStructuresAndAlgorithms\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D52E6B6D-689A-490B-B7CF-C86859820EC5}|DataStructuresAndAlgorithms.csproj|c:\\personalprojects\\datastructuresandalgorithms\\datastructuresandalgorithms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D52E6B6D-689A-490B-B7CF-C86859820EC5}|DataStructuresAndAlgorithms.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A463255B-737E-C364-8388-968272B43508}|DataStructuresAndAlgorithms.csproj|c:\\personalprojects\\datastructuresandalgorithms\\datastructuresandalgorithms\\linkedlistimplementation\\singlylinkedlist\\printandapplysinglylinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A463255B-737E-C364-8388-968272B43508}|DataStructuresAndAlgorithms.csproj|solutionrelative:linkedlistimplementation\\singlylinkedlist\\printandapplysinglylinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A463255B-737E-C364-8388-968272B43508}|DataStructuresAndAlgorithms.csproj|c:\\personalprojects\\datastructuresandalgorithms\\datastructuresandalgorithms\\linkedlistimplementation\\singlylinkedlist\\singlylinkedlistimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A463255B-737E-C364-8388-968272B43508}|DataStructuresAndAlgorithms.csproj|solutionrelative:linkedlistimplementation\\singlylinkedlist\\singlylinkedlistimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A463255B-737E-C364-8388-968272B43508}|DataStructuresAndAlgorithms.csproj|c:\\personalprojects\\datastructuresandalgorithms\\datastructuresandalgorithms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A463255B-737E-C364-8388-968272B43508}|DataStructuresAndAlgorithms.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A463255B-737E-C364-8388-968272B43508}|DataStructuresAndAlgorithms.csproj|c:\\personalprojects\\datastructuresandalgorithms\\datastructuresandalgorithms\\linkedlistimplementation\\singlylinkedlist\\singlylinkedlist_intersection_of_twolinkedlists.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A463255B-737E-C364-8388-968272B43508}|DataStructuresAndAlgorithms.csproj|solutionrelative:linkedlistimplementation\\singlylinkedlist\\singlylinkedlist_intersection_of_twolinkedlists.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A463255B-737E-C364-8388-968272B43508}|DataStructuresAndAlgorithms.csproj|c:\\personalprojects\\datastructuresandalgorithms\\datastructuresandalgorithms\\linkedlistimplementation\\singlylinkedlist\\singlylinkedlist_linkedlistcycle_i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A463255B-737E-C364-8388-968272B43508}|DataStructuresAndAlgorithms.csproj|solutionrelative:linkedlistimplementation\\singlylinkedlist\\singlylinkedlist_linkedlistcycle_i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A463255B-737E-C364-8388-968272B43508}|DataStructuresAndAlgorithms.csproj|c:\\personalprojects\\datastructuresandalgorithms\\datastructuresandalgorithms\\linkedlistimplementation\\singlylinkedlist\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A463255B-737E-C364-8388-968272B43508}|DataStructuresAndAlgorithms.csproj|solutionrelative:linkedlistimplementation\\singlylinkedlist\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A463255B-737E-C364-8388-968272B43508}|DataStructuresAndAlgorithms.csproj|c:\\personalprojects\\datastructuresandalgorithms\\datastructuresandalgorithms\\linkedlistimplementation\\singlylinkedlist\\singlylinkedlist_reversealinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A463255B-737E-C364-8388-968272B43508}|DataStructuresAndAlgorithms.csproj|solutionrelative:linkedlistimplementation\\singlylinkedlist\\singlylinkedlist_reversealinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A463255B-737E-C364-8388-968272B43508}|DataStructuresAndAlgorithms.csproj|c:\\personalprojects\\datastructuresandalgorithms\\datastructuresandalgorithms\\linkedlistimplementation\\singlylinkedlist\\singlylinkedlist_lru_cache_problem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A463255B-737E-C364-8388-968272B43508}|DataStructuresAndAlgorithms.csproj|solutionrelative:linkedlistimplementation\\singlylinkedlist\\singlylinkedlist_lru_cache_problem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A463255B-737E-C364-8388-968272B43508}|DataStructuresAndAlgorithms.csproj|c:\\personalprojects\\datastructuresandalgorithms\\datastructuresandalgorithms\\linkedlistimplementation\\doublylinkedlist\\doublylinkedlist_insertion_at_tail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A463255B-737E-C364-8388-968272B43508}|DataStructuresAndAlgorithms.csproj|solutionrelative:linkedlistimplementation\\doublylinkedlist\\doublylinkedlist_insertion_at_tail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A463255B-737E-C364-8388-968272B43508}|DataStructuresAndAlgorithms.csproj|c:\\personalprojects\\datastructuresandalgorithms\\datastructuresandalgorithms\\linkedlistimplementation\\doublylinkedlist\\doublylinkedlist_implementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A463255B-737E-C364-8388-968272B43508}|DataStructuresAndAlgorithms.csproj|solutionrelative:linkedlistimplementation\\doublylinkedlist\\doublylinkedlist_implementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A463255B-737E-C364-8388-968272B43508}|DataStructuresAndAlgorithms.csproj|c:\\personalprojects\\datastructuresandalgorithms\\datastructuresandalgorithms\\linkedlistimplementation\\doublylinkedlist\\doublylinkedlist_deletion_at_specificpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A463255B-737E-C364-8388-968272B43508}|DataStructuresAndAlgorithms.csproj|solutionrelative:linkedlistimplementation\\doublylinkedlist\\doublylinkedlist_deletion_at_specificpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A463255B-737E-C364-8388-968272B43508}|DataStructuresAndAlgorithms.csproj|c:\\personalprojects\\datastructuresandalgorithms\\datastructuresandalgorithms\\linkedlistimplementation\\doublylinkedlist\\doublylinkedlist_deletion_at_head.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A463255B-737E-C364-8388-968272B43508}|DataStructuresAndAlgorithms.csproj|solutionrelative:linkedlistimplementation\\doublylinkedlist\\doublylinkedlist_deletion_at_head.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A463255B-737E-C364-8388-968272B43508}|DataStructuresAndAlgorithms.csproj|c:\\personalprojects\\datastructuresandalgorithms\\datastructuresandalgorithms\\linkedlistimplementation\\doublylinkedlist\\doublylinkedlist_deletion_at_tail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A463255B-737E-C364-8388-968272B43508}|DataStructuresAndAlgorithms.csproj|solutionrelative:linkedlistimplementation\\doublylinkedlist\\doublylinkedlist_deletion_at_tail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A463255B-737E-C364-8388-968272B43508}|DataStructuresAndAlgorithms.csproj|c:\\personalprojects\\datastructuresandalgorithms\\datastructuresandalgorithms\\linkedlistimplementation\\doublylinkedlist\\doublylinkedlist_insertion_at_specificpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A463255B-737E-C364-8388-968272B43508}|DataStructuresAndAlgorithms.csproj|solutionrelative:linkedlistimplementation\\doublylinkedlist\\doublylinkedlist_insertion_at_specificpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A463255B-737E-C364-8388-968272B43508}|DataStructuresAndAlgorithms.csproj|c:\\personalprojects\\datastructuresandalgorithms\\datastructuresandalgorithms\\linkedlistimplementation\\doublylinkedlist\\doublylinkedlist_insertion_at_head.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A463255B-737E-C364-8388-968272B43508}|DataStructuresAndAlgorithms.csproj|solutionrelative:linkedlistimplementation\\doublylinkedlist\\doublylinkedlist_insertion_at_head.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,20 +70,194 @@
       "DocumentGroups": [
         {
           "DockedWidth": 289,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SinglyLinkedListImplementation.cs",
+              "DocumentMoniker": "C:\\PersonalProjects\\DataStructuresAndAlgorithms\\DataStructuresAndAlgorithms\\LinkedListImplementation\\SinglyLinkedList\\SinglyLinkedListImplementation.cs",
+              "RelativeDocumentMoniker": "LinkedListImplementation\\SinglyLinkedList\\SinglyLinkedListImplementation.cs",
+              "ToolTip": "C:\\PersonalProjects\\DataStructuresAndAlgorithms\\DataStructuresAndAlgorithms\\LinkedListImplementation\\SinglyLinkedList\\SinglyLinkedListImplementation.cs",
+              "RelativeToolTip": "LinkedListImplementation\\SinglyLinkedList\\SinglyLinkedListImplementation.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAADQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T14:42:21.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "PrintAndApplySinglyLinkedList.cs",
+              "DocumentMoniker": "C:\\PersonalProjects\\DataStructuresAndAlgorithms\\DataStructuresAndAlgorithms\\LinkedListImplementation\\SinglyLinkedList\\PrintAndApplySinglyLinkedList.cs",
+              "RelativeDocumentMoniker": "LinkedListImplementation\\SinglyLinkedList\\PrintAndApplySinglyLinkedList.cs",
+              "ToolTip": "C:\\PersonalProjects\\DataStructuresAndAlgorithms\\DataStructuresAndAlgorithms\\LinkedListImplementation\\SinglyLinkedList\\PrintAndApplySinglyLinkedList.cs",
+              "RelativeToolTip": "LinkedListImplementation\\SinglyLinkedList\\PrintAndApplySinglyLinkedList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T14:52:37.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Node.cs",
+              "DocumentMoniker": "C:\\PersonalProjects\\DataStructuresAndAlgorithms\\DataStructuresAndAlgorithms\\LinkedListImplementation\\SinglyLinkedList\\Node.cs",
+              "RelativeDocumentMoniker": "LinkedListImplementation\\SinglyLinkedList\\Node.cs",
+              "ToolTip": "C:\\PersonalProjects\\DataStructuresAndAlgorithms\\DataStructuresAndAlgorithms\\LinkedListImplementation\\SinglyLinkedList\\Node.cs",
+              "RelativeToolTip": "LinkedListImplementation\\SinglyLinkedList\\Node.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T14:13:25.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SinglyLinkedList_LinkedListCycle_I.cs",
+              "DocumentMoniker": "C:\\PersonalProjects\\DataStructuresAndAlgorithms\\DataStructuresAndAlgorithms\\LinkedListImplementation\\SinglyLinkedList\\SinglyLinkedList_LinkedListCycle_I.cs",
+              "RelativeDocumentMoniker": "LinkedListImplementation\\SinglyLinkedList\\SinglyLinkedList_LinkedListCycle_I.cs",
+              "ToolTip": "C:\\PersonalProjects\\DataStructuresAndAlgorithms\\DataStructuresAndAlgorithms\\LinkedListImplementation\\SinglyLinkedList\\SinglyLinkedList_LinkedListCycle_I.cs",
+              "RelativeToolTip": "LinkedListImplementation\\SinglyLinkedList\\SinglyLinkedList_LinkedListCycle_I.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T14:14:49.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\PersonalProjects\\DataStructuresAndAlgorithms\\DataStructuresAndAlgorithms\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\PersonalProjects\\DataStructuresAndAlgorithms\\DataStructuresAndAlgorithms\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-27T13:44:47.125Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SinglyLinkedList_Intersection_Of_TwoLinkedLists.cs",
+              "DocumentMoniker": "C:\\PersonalProjects\\DataStructuresAndAlgorithms\\DataStructuresAndAlgorithms\\LinkedListImplementation\\SinglyLinkedList\\SinglyLinkedList_Intersection_Of_TwoLinkedLists.cs",
+              "RelativeDocumentMoniker": "LinkedListImplementation\\SinglyLinkedList\\SinglyLinkedList_Intersection_Of_TwoLinkedLists.cs",
+              "ToolTip": "C:\\PersonalProjects\\DataStructuresAndAlgorithms\\DataStructuresAndAlgorithms\\LinkedListImplementation\\SinglyLinkedList\\SinglyLinkedList_Intersection_Of_TwoLinkedLists.cs",
+              "RelativeToolTip": "LinkedListImplementation\\SinglyLinkedList\\SinglyLinkedList_Intersection_Of_TwoLinkedLists.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T14:15:47.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SinglyLinkedList_ReverseALinkedList.cs",
+              "DocumentMoniker": "C:\\PersonalProjects\\DataStructuresAndAlgorithms\\DataStructuresAndAlgorithms\\LinkedListImplementation\\SinglyLinkedList\\SinglyLinkedList_ReverseALinkedList.cs",
+              "RelativeDocumentMoniker": "LinkedListImplementation\\SinglyLinkedList\\SinglyLinkedList_ReverseALinkedList.cs",
+              "ToolTip": "C:\\PersonalProjects\\DataStructuresAndAlgorithms\\DataStructuresAndAlgorithms\\LinkedListImplementation\\SinglyLinkedList\\SinglyLinkedList_ReverseALinkedList.cs",
+              "RelativeToolTip": "LinkedListImplementation\\SinglyLinkedList\\SinglyLinkedList_ReverseALinkedList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T14:14:34.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SinglyLinkedList_LRU_Cache_problem.cs",
+              "DocumentMoniker": "C:\\PersonalProjects\\DataStructuresAndAlgorithms\\DataStructuresAndAlgorithms\\LinkedListImplementation\\SinglyLinkedList\\SinglyLinkedList_LRU_Cache_problem.cs",
+              "RelativeDocumentMoniker": "LinkedListImplementation\\SinglyLinkedList\\SinglyLinkedList_LRU_Cache_problem.cs",
+              "ToolTip": "C:\\PersonalProjects\\DataStructuresAndAlgorithms\\DataStructuresAndAlgorithms\\LinkedListImplementation\\SinglyLinkedList\\SinglyLinkedList_LRU_Cache_problem.cs",
+              "RelativeToolTip": "LinkedListImplementation\\SinglyLinkedList\\SinglyLinkedList_LRU_Cache_problem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T14:16:04.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DoublyLinkedList_Insertion_At_Tail.cs",
+              "DocumentMoniker": "C:\\PersonalProjects\\DataStructuresAndAlgorithms\\DataStructuresAndAlgorithms\\LinkedListImplementation\\DoublyLinkedList\\DoublyLinkedList_Insertion_At_Tail.cs",
+              "RelativeDocumentMoniker": "LinkedListImplementation\\DoublyLinkedList\\DoublyLinkedList_Insertion_At_Tail.cs",
+              "ToolTip": "C:\\PersonalProjects\\DataStructuresAndAlgorithms\\DataStructuresAndAlgorithms\\LinkedListImplementation\\DoublyLinkedList\\DoublyLinkedList_Insertion_At_Tail.cs",
+              "RelativeToolTip": "LinkedListImplementation\\DoublyLinkedList\\DoublyLinkedList_Insertion_At_Tail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T14:18:25.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DoublyLinkedList_Implementation.cs",
+              "DocumentMoniker": "C:\\PersonalProjects\\DataStructuresAndAlgorithms\\DataStructuresAndAlgorithms\\LinkedListImplementation\\DoublyLinkedList\\DoublyLinkedList_Implementation.cs",
+              "RelativeDocumentMoniker": "LinkedListImplementation\\DoublyLinkedList\\DoublyLinkedList_Implementation.cs",
+              "ToolTip": "C:\\PersonalProjects\\DataStructuresAndAlgorithms\\DataStructuresAndAlgorithms\\LinkedListImplementation\\DoublyLinkedList\\DoublyLinkedList_Implementation.cs",
+              "RelativeToolTip": "LinkedListImplementation\\DoublyLinkedList\\DoublyLinkedList_Implementation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T14:13:38.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DoublyLinkedList_Deletion_At_SpecificPoint.cs",
+              "DocumentMoniker": "C:\\PersonalProjects\\DataStructuresAndAlgorithms\\DataStructuresAndAlgorithms\\LinkedListImplementation\\DoublyLinkedList\\DoublyLinkedList_Deletion_At_SpecificPoint.cs",
+              "RelativeDocumentMoniker": "LinkedListImplementation\\DoublyLinkedList\\DoublyLinkedList_Deletion_At_SpecificPoint.cs",
+              "ToolTip": "C:\\PersonalProjects\\DataStructuresAndAlgorithms\\DataStructuresAndAlgorithms\\LinkedListImplementation\\DoublyLinkedList\\DoublyLinkedList_Deletion_At_SpecificPoint.cs",
+              "RelativeToolTip": "LinkedListImplementation\\DoublyLinkedList\\DoublyLinkedList_Deletion_At_SpecificPoint.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T14:20:32.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DoublyLinkedList_Deletion_At_Head.cs.cs",
+              "DocumentMoniker": "C:\\PersonalProjects\\DataStructuresAndAlgorithms\\DataStructuresAndAlgorithms\\LinkedListImplementation\\DoublyLinkedList\\DoublyLinkedList_Deletion_At_Head.cs.cs",
+              "RelativeDocumentMoniker": "LinkedListImplementation\\DoublyLinkedList\\DoublyLinkedList_Deletion_At_Head.cs.cs",
+              "ToolTip": "C:\\PersonalProjects\\DataStructuresAndAlgorithms\\DataStructuresAndAlgorithms\\LinkedListImplementation\\DoublyLinkedList\\DoublyLinkedList_Deletion_At_Head.cs.cs",
+              "RelativeToolTip": "LinkedListImplementation\\DoublyLinkedList\\DoublyLinkedList_Deletion_At_Head.cs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T14:20:13.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DoublyLinkedList_Deletion_At_Tail.cs",
+              "DocumentMoniker": "C:\\PersonalProjects\\DataStructuresAndAlgorithms\\DataStructuresAndAlgorithms\\LinkedListImplementation\\DoublyLinkedList\\DoublyLinkedList_Deletion_At_Tail.cs",
+              "RelativeDocumentMoniker": "LinkedListImplementation\\DoublyLinkedList\\DoublyLinkedList_Deletion_At_Tail.cs",
+              "ToolTip": "C:\\PersonalProjects\\DataStructuresAndAlgorithms\\DataStructuresAndAlgorithms\\LinkedListImplementation\\DoublyLinkedList\\DoublyLinkedList_Deletion_At_Tail.cs",
+              "RelativeToolTip": "LinkedListImplementation\\DoublyLinkedList\\DoublyLinkedList_Deletion_At_Tail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T14:20:03.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DoublyLinkedList_Insertion_At_SpecificPoint.cs",
+              "DocumentMoniker": "C:\\PersonalProjects\\DataStructuresAndAlgorithms\\DataStructuresAndAlgorithms\\LinkedListImplementation\\DoublyLinkedList\\DoublyLinkedList_Insertion_At_SpecificPoint.cs",
+              "RelativeDocumentMoniker": "LinkedListImplementation\\DoublyLinkedList\\DoublyLinkedList_Insertion_At_SpecificPoint.cs",
+              "ToolTip": "C:\\PersonalProjects\\DataStructuresAndAlgorithms\\DataStructuresAndAlgorithms\\LinkedListImplementation\\DoublyLinkedList\\DoublyLinkedList_Insertion_At_SpecificPoint.cs",
+              "RelativeToolTip": "LinkedListImplementation\\DoublyLinkedList\\DoublyLinkedList_Insertion_At_SpecificPoint.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T14:19:10.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DoublyLinkedList_Insertion_At_Head.cs",
+              "DocumentMoniker": "C:\\PersonalProjects\\DataStructuresAndAlgorithms\\DataStructuresAndAlgorithms\\LinkedListImplementation\\DoublyLinkedList\\DoublyLinkedList_Insertion_At_Head.cs",
+              "RelativeDocumentMoniker": "LinkedListImplementation\\DoublyLinkedList\\DoublyLinkedList_Insertion_At_Head.cs",
+              "ToolTip": "C:\\PersonalProjects\\DataStructuresAndAlgorithms\\DataStructuresAndAlgorithms\\LinkedListImplementation\\DoublyLinkedList\\DoublyLinkedList_Insertion_At_Head.cs",
+              "RelativeToolTip": "LinkedListImplementation\\DoublyLinkedList\\DoublyLinkedList_Insertion_At_Head.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T14:18:02.507Z"
             }
           ]
         }

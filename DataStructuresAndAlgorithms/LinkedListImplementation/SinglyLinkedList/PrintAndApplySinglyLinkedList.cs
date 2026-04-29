@@ -1,15 +1,15 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Text;
 
-namespace DataStructuresAndAlgorithms.LinkedList.SinglyLinkedList
+namespace DataStructuresAndAlgorithms.LinkedListImplementation
 {
-    internal class LinkedListImplementation
+    internal class PrintAndApplySinglyLinkedList
     {
-        private LinkedList linkedList = new LinkedList();
 
         public void PrintStatus()
         {
+            var linkedList = new SinglyLinkedList.SinglyLinkedListImplementation();
+
             Console.WriteLine("Singly Linked List Implementation");
             Console.WriteLine("Is it empty? " + linkedList.Empty);
             Console.WriteLine("Count: " + linkedList.Count);
@@ -18,10 +18,9 @@ namespace DataStructuresAndAlgorithms.LinkedList.SinglyLinkedList
             linkedList.Add("Test2");
             linkedList.Add(1, "Test3");
 
-            linkedList.Remove(1);
+            // linkedList.Remove(1);
 
-            linkedList.Clear();
-
+            // linkedList.Clear();
 
             // Add and check index
             linkedList.Add("Hello");

@@ -7,7 +7,6 @@ C:\PersonalProjects\DataStructuresAndAlgorithms\DataStructuresAndAlgorithms\obj\
 C:\PersonalProjects\DataStructuresAndAlgorithms\DataStructuresAndAlgorithms\obj\Debug\net10.0\DataStructuresAndAlgorithms.AssemblyInfoInputs.cache
 C:\PersonalProjects\DataStructuresAndAlgorithms\DataStructuresAndAlgorithms\obj\Debug\net10.0\DataStructuresAndAlgorithms.AssemblyInfo.cs
 C:\PersonalProjects\DataStructuresAndAlgorithms\DataStructuresAndAlgorithms\obj\Debug\net10.0\DataStructuresAndAlgorithms.csproj.CoreCompileInputs.cache
-C:\PersonalProjects\DataStructuresAndAlgorithms\DataStructuresAndAlgorithms\obj\Debug\net10.0\DataStructuresAndAlgorithms.sourcelink.json
 C:\PersonalProjects\DataStructuresAndAlgorithms\DataStructuresAndAlgorithms\obj\Debug\net10.0\DataStructuresAndAlgorithms.dll
 C:\PersonalProjects\DataStructuresAndAlgorithms\DataStructuresAndAlgorithms\obj\Debug\net10.0\refint\DataStructuresAndAlgorithms.dll
 C:\PersonalProjects\DataStructuresAndAlgorithms\DataStructuresAndAlgorithms\obj\Debug\net10.0\DataStructuresAndAlgorithms.pdb

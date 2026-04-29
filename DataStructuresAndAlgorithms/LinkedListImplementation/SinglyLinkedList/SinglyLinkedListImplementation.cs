@@ -1,15 +1,14 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Text;
 
-namespace DataStructuresAndAlgorithms.LinkedList
+namespace DataStructuresAndAlgorithms.SinglyLinkedList
 {
-    public class LinkedList
+    public class SinglyLinkedListImplementation
     {
-        private Node head;
+        private Node? head;
         private int count;
 
-        public LinkedList()
+        public SinglyLinkedListImplementation()
         {
             this.head = null;
             this.count = 0;
